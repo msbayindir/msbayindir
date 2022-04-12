@@ -57,17 +57,20 @@
       alt="docker" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="vscode" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    <img src="https://e7.pngegg.com/pngimages/190/711/png-clipart-microsoft-visual-studio-entity-framework-microsoft-developer-network-asp-net-microsoft-purple-angle-thumbnail.png"
       alt="vs" width="40" height="40" />
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/805/274/png-clipart-black-and-white-pc-logo-pycharm-logo-icons-logos-emojis-tech-companies-thumbnail.png"
       alt="pycharm" width="40" height="40" />
   </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       alt="git" width="40" height="40"/> </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+ </a> 
+   <a href="https://brew.sh/index_tr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Homebrew_logo.svg/398px-Homebrew_logo.svg.png?20190203204640" alt="homebrew" width="40" height="40"/> 
+ </a> 
 </p>
 
 <h3 align="left">Operating System </h3>
@@ -76,4 +79,32 @@
 <img align="center" src="https://c.tenor.com/DRQumeadhgYAAAAi/windows10-windows.gif" height="60px" />
 </p>
 
+---
 
+<h3 align="left">Github Activity <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="55px"</h3>
+
+  
+<p>
+<a href="https://github.com/msbayindir">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbayindir&theme=highcontrast" />
+  </a>
+
+<a href="https://github.com/msbayindir">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=msbayindir&show_icons=true&theme=highcontrast&line_height=40" alt="Muhammed's github stats"/>
+
+  </p>
+  </a>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbayindir&theme=highcontrast&line_height=100" alt="msbayindir" />
+
+  ---
+  
+  
+  <h3 align="left">My Projects ✨</h3>
+  
+  <p>
+  <a href="https://github.com/msbayindir/MyCafe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MyCafe&theme=vision-friendly-dark" />
+   <a href="https://github.com/msbayindir/MYAZ206">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MYAZ206&theme=vision-friendly-dark" />
+</a>
+  </p>
