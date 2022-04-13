@@ -86,15 +86,15 @@
   
 <p>
 <a href="https://github.com/msbayindir">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbayindir&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbayindir&theme=dracula" />
   </a>
 
 <a href="https://github.com/msbayindir">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=msbayindir&show_icons=true&theme=highcontrast&line_height=40" alt="Muhammed's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=msbayindir&show_icons=true&theme=dracula&line_height=40" alt="Muhammed's github stats"/>
 
   </p>
   </a>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbayindir&theme=highcontrast&line_height=100" alt="msbayindir" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbayindir&theme=dracula&line_height=100" alt="msbayindir" />
 
   ---
   
