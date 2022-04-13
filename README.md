@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&color=30A7DCCD&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;I'm+Muhammed+Sefa+BAYINDIR)](https://git.io/typing-svg)
----
+***
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 🇹🇷  I’m From Turkey
