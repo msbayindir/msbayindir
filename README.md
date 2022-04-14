@@ -29,10 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" />
   </a>
-   <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/1018/120/png-transparent-swift-protocol-apple-objective-c-apple-thumbnail.png" alt="swift"
-      width="40" height="40" />
-  </a>
+   
    <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank" rel="noreferrer">
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
   </a>
@@ -44,14 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
       alt="dotnet" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
-    <img src="https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg"
-      alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg"
-      alt="django" width="40" height="40" />
-  </a>
+ 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker" width="40" height="40" />
