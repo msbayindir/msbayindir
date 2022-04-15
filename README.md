@@ -65,8 +65,8 @@
 
 <h3 align="left">Operating System </h3>
 <p align="left">
-<img align="center" src="https://c.tenor.com/fMmpqhXx4gQAAAAC/mac-os.gif" height="60px" />  
-<img align="center" src="https://c.tenor.com/DRQumeadhgYAAAAi/windows10-windows.gif" height="60px" />
+<img align="left" src="https://c.tenor.com/fMmpqhXx4gQAAAAC/mac-os.gif" height="60px" style="padding-left:5px;" />
+<img align="rigt" src="https://c.tenor.com/DRQumeadhgYAAAAi/windows10-windows.gif" height="60px" />
 </p>
 
 ---
