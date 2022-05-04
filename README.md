@@ -1,5 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&color=30A7DCCD&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;I'm+Muhammed+Sefa+BAYINDIR)](https://git.io/typing-svg)
 ***
+
+<h3 align="left">My Projects ✨</h3>
+  
+  <div>
+  <a href="https://github.com/msbayindir/MyCafe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MyCafe&theme=vision-friendly-dark" />
+  </a>
+  
+   <a href="https://github.com/msbayindir/MYAZ206">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MYAZ206&theme=vision-friendly-dark" />
+  </a>
+  
+  <a href="https://github.com/msbayindir/ClashRChest.nTier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=ClashRChest.nTier&theme=vision-friendly-dark" />
+  </a>
+  
+  </div>
+  
+
+  ---
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 🇹🇷  I’m From Turkey
@@ -86,15 +106,4 @@
   </a>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbayindir&theme=dracula&line_height=100" alt="msbayindir" />
 
-  ---
   
-  
-  <h3 align="left">My Projects ✨</h3>
-  
-  <p>
-  <a href="https://github.com/msbayindir/MyCafe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MyCafe&theme=vision-friendly-dark" />
-   <a href="https://github.com/msbayindir/MYAZ206">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MYAZ206&theme=vision-friendly-dark" />
-</a>
-  </p>
