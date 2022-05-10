@@ -8,10 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MyCafe&theme=vision-friendly-dark" />
   </a>
   
-   <a href="https://github.com/msbayindir/MYAZ206">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=MYAZ206&theme=vision-friendly-dark" />
-  </a>
-  
   <a href="https://github.com/msbayindir/ClashRChest.nTier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msbayindir&repo=ClashRChest.nTier&theme=vision-friendly-dark" />
   </a>
