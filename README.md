@@ -23,7 +23,7 @@
   
 
   ---
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 - 🇹🇷  I’m From Turkey
 - 💻 I’m Software Engineering Student 
